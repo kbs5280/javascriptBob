@@ -1,3 +1,5 @@
+NOTE: _This is a simple exercise I used to practice JavaScript fundamentals._
+
 # Bob
 
 Bob is a lackadaisical teenager. In conversation, his responses are very limited.
